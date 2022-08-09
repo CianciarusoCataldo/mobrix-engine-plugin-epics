@@ -1,29 +1,10 @@
 # MoBrix-engine-plugin-epics
 
-![NPM](https://img.shields.io/npm/l/mobrix-engine-plugin-epics?label=License&style=for-the-badge)
-![npm](https://img.shields.io/npm/v/mobrix-engine-plugin-epics?color=orange%20&label=Latest%20version&style=for-the-badge&logo=npm)
-![npm bundle size](https://img.shields.io/bundlephobia/min/mobrix-engine-plugin-epics?label=Package%20size&style=for-the-badge)
-![Maintenance](https://img.shields.io/maintenance/yes/2025?label=Maintained&style=for-the-badge)
-
 ---
 
 <br>
 
 Use [redux-observable](https://redux-observable.js.org/) epics with [MoBrix-engine system](https://github.com/CianciarusoCataldo/mobrix-engine)
-
-<br>
-
----
-
-## Summary
-
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Integration with other plugins](#integration-with-other-plugins)
-- [Included libraries](#included-libraries)
-- [Authors](#authors)
-- [License](#license)
 
 <br>
 
