@@ -1,6 +1,6 @@
 {
   "name": "mobrix-engine-plugin-epics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use redux-observable epics inside MoBrix-engine system",
   "author": "Cataldo Cianciaruso",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "url": "https://github.com/CianciarusoCataldo/mobrix-engine-plugin-epics/issues"
   },
   "peerDependencies": {
-    "mobrix-engine-tools": "^1.0.0",
+    "mobrix-engine-tools": "^1.0.3",
     "redux-observable": "^2.0.0",
     "tslib": "^2.4.0"
   },
@@ -32,7 +32,7 @@
     "enzyme": "^3.11.0",
     "jest": "^27.4.7",
     "jest-transform-stub": "^2.0.0",
-    "mobrix-engine-tools": "^1.0.0",
+    "mobrix-engine-tools": "^1.0.3",
     "redux-observable": "^2.0.0",
     "rollup": "^2.44.0",
     "rollup-plugin-analyzer": "^4.0.0",
