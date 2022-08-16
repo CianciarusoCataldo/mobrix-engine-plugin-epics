@@ -50,7 +50,7 @@ import { createMoBrixEnginePlugin } from "mobrix-engine-tools";
  * @copyright Cataldo Cianciaruso 2022
  *
  */
-const epicsPlugin: EpicsPlugin = createMoBrixEnginePlugin("epics", () => {
+const epicsPlugin: EpicsPlugin = createMoBrixEnginePlugin("mobrix-engine-epics", () => {
   const epicMiddleware: any = createEpicMiddleware();
 
   return {

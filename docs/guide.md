@@ -55,7 +55,7 @@ module.exports = { config };
 
 ## Integration with other plugins
 
-- This plugin expose some fields to work with any other plugin. If you want to interact with it, using your custom plugin, add an `interaction` with `epics` plugin, and add your custom epic to the given epics array:
+- This plugin expose some fields to work with any other plugin. If you want to interact with it, using your custom plugin, add an `interaction` with `mobrix-engine-epics` plugin, and add your custom epic to the given epics array:
 
 ```tsx
 //Just a skeleton of a custom plugin that interacts with router plugin
@@ -64,7 +64,7 @@ const customPlugin = () => ({
 
   interactions: [
     {
-      plugin: "epics",
+      plugin: "mobrix-engine-epics",
       effect: (epics) => {
         // Custom plugin stuffs
 

@@ -83,7 +83,7 @@ const customPlugin = () => ({
 
   interactions: [
     {
-      plugin: "epics",
+      plugin: "mobrix-engine-epics",
       effect: (epics) => {
         // Custom plugin stuffs
 
